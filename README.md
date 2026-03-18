@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Temitope Dada
-
+## About me
 🌱A Data Analyst who thrives on turning data into clear stories that help businesses make informed decisions. With experience across SQL, Power BI, Excel, and Python, I’ve learned how to balance detail with the bigger picture. What excites me most is not just analyzing numbers, but showing what they mean in a way people can act on.
 
 ## 🌐 Socials:
